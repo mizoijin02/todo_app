@@ -18,10 +18,10 @@ com.example.todo_app-lifecycle-livedata-core-2.7.0-16 /Users/mizoijin/.gradle/ca
 com.example.todo_app-jetified-activity-1.8.1-17 /Users/mizoijin/.gradle/caches/transforms-3/aecaa94fd3010ebbc81c2fe40f782abe/transformed/jetified-activity-1.8.1/res
 com.example.todo_app-lifecycle-livedata-2.7.0-18 /Users/mizoijin/.gradle/caches/transforms-3/c11b0fd8d42c1350d7f4e72974d231fa/transformed/lifecycle-livedata-2.7.0/res
 com.example.todo_app-lifecycle-runtime-2.7.0-19 /Users/mizoijin/.gradle/caches/transforms-3/c3e60d8edb6a86f432de0791fcaa87bd/transformed/lifecycle-runtime-2.7.0/res
-com.example.todo_app-debug-20 /Users/mizoijin/Desktop/todo_app/android/app/src/debug/res
-com.example.todo_app-main-21 /Users/mizoijin/Desktop/todo_app/android/app/src/main/res
-com.example.todo_app-pngs-22 /Users/mizoijin/Desktop/todo_app/build/app/generated/res/pngs/debug
-com.example.todo_app-resValues-23 /Users/mizoijin/Desktop/todo_app/build/app/generated/res/resValues/debug
-com.example.todo_app-packageDebugResources-24 /Users/mizoijin/Desktop/todo_app/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.todo_app-packageDebugResources-25 /Users/mizoijin/Desktop/todo_app/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.todo_app-merged_res-26 /Users/mizoijin/Desktop/todo_app/build/app/intermediates/merged_res/debug
+com.example.todo_app-debug-20 /Users/mizoijin/todo_app/android/app/src/debug/res
+com.example.todo_app-main-21 /Users/mizoijin/todo_app/android/app/src/main/res
+com.example.todo_app-pngs-22 /Users/mizoijin/todo_app/build/app/generated/res/pngs/debug
+com.example.todo_app-resValues-23 /Users/mizoijin/todo_app/build/app/generated/res/resValues/debug
+com.example.todo_app-packageDebugResources-24 /Users/mizoijin/todo_app/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.todo_app-packageDebugResources-25 /Users/mizoijin/todo_app/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.todo_app-merged_res-26 /Users/mizoijin/todo_app/build/app/intermediates/merged_res/debug
