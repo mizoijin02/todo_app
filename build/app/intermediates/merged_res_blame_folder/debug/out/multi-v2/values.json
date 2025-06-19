@@ -4,25 +4,6 @@
             "outputFile": "com.example.todo_app-mergeDebugResources-24:/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/mizoijin/Desktop/todo_app/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "155,159",
-                        "startColumns": "4,4",
-                        "startOffsets": "7894,8075",
-                        "endLines": "158,161",
-                        "endColumns": "12,12",
-                        "endOffsets": "8070,8239"
-                    }
-                },
-                {
                     "source": "/Users/mizoijin/.gradle/caches/transforms-3/63d3b185799b2c098a0f6ed885ea8db1/transformed/fragment-1.7.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,10",
@@ -56,6 +37,25 @@
                         "startOffsets": "5922,6931",
                         "endColumns": "41,59",
                         "endOffsets": "5959,6986"
+                    }
+                },
+                {
+                    "source": "/Users/mizoijin/todo_app/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "155,159",
+                        "startColumns": "4,4",
+                        "startOffsets": "7894,8075",
+                        "endLines": "158,161",
+                        "endColumns": "12,12",
+                        "endOffsets": "8070,8239"
                     }
                 },
                 {
