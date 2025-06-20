@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.todo_app",
+  "applicationId": "com.example.todoapp",
   "variantName": "debug",
   "elements": [
     {

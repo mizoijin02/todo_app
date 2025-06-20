@@ -1,13 +1,10 @@
-#Thu Jun 19 09:45:58 JST 2025
-base.0=/Users/mizoijin/todo_app/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/mizoijin/todo_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/Users/mizoijin/todo_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/Users/mizoijin/todo_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+#Fri Jun 20 09:52:13 JST 2025
+base.0=/Users/mizoijin/Desktop/todoapp/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/mizoijin/Desktop/todoapp/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/mizoijin/Desktop/todoapp/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex
-path.3=11/classes.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex
-renamed.3=classes4.dex
