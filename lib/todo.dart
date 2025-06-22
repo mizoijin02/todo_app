@@ -13,7 +13,7 @@ class ToDoPage extends StatefulWidget {
 class _ToDoPageState extends State<ToDoPage> with TickerProviderStateMixin {
   // TODOのアイテムリスト
   final List<Item> _items = [];
-  final TextEditingController _textEditingController = TextEditingController();
+
   DateTime? _selectedDate;
 
   late TabController _tabController;
@@ -62,7 +62,8 @@ class _ToDoPageState extends State<ToDoPage> with TickerProviderStateMixin {
                 setState(() {
                   _categories.add(controller.text);
                   _nowCountroller[controller.text] = TextEditingController();
-                  _tabCont         TabController(length: _categories.length, vsync: this);
+                  _tabController =
+                      TabController(length: _categories.length, vsync: this);
                 });
               }
               Navigator.pop(context);
@@ -79,7 +80,8 @@ class _ToDoPageState extends State<ToDoPage> with TickerProviderStateMixin {
     if (_categories.length <= 1) return; // 最低1つは残す
 
     setState(() {
-      final index = _categories.indexOf(category);
+      _categories.indexOf(category);
+      _categories.indexOf(category);
       _categories.remove(category);
       _nowCountroller[category]?.dispose();
       _nowCountroller.remove(category);
@@ -300,7 +302,6 @@ class _ToDoPageState extends State<ToDoPage> with TickerProviderStateMixin {
 
   @override
   void dispose() {
-    _textEditingController.dispose();
     for (final controller in _nowCountroller.values) {
       controller.dispose();
     }
