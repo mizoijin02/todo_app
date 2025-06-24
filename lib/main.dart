@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'todo.dart';
-import 'views/postal_search_page.dart'; // ← 追加
+import 'views/postal_search_page.dart';
 
 void main() {
   runApp(

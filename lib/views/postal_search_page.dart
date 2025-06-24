@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import '../providers/postal_view_model.dart';
-import '../models/postal_data.dart';
+import 'package:todoapp/models/postal_data.dart';
+import 'package:todoapp/providers/postal_view_model.dart';
 
 // 郵便番号検索画面
 class PostalSearchPage extends ConsumerWidget {
